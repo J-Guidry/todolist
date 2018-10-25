@@ -17,7 +17,7 @@ html {
 	padding-bottom: 3%;
 	padding-left: 5%;
 	padding-right: 5%;
-	background: #ABCEF5;
+	background: lightgray;
 	border-radius: 10%;
 	-webkit-box-shadow: 15px 31px 67px -9px rgba(0,0,0,0.37);
 	-moz-box-shadow: 15px 31px 67px -9px rgba(0,0,0,0.37);
@@ -36,7 +36,7 @@ li{
 
 
 button{
-	background-color: #4CAF50; /* Green */
+	background-color: #52A8FF; 
     border: none;
     color: white;
     padding: 5px 10px;
@@ -60,11 +60,11 @@ input{
 	color: darkred;
 	margin-left: 10%;
 	cursor: pointer;
-	margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 .fa-check-circle-o {
-	color: green;
+	color: #52A8FF;
 	margin-right: 10px;
 }
 
