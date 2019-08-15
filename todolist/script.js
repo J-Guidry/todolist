@@ -181,7 +181,7 @@ var controller = {
     todoList.addTodo(input);
     addTodoTextInput.value = '';
     view.addTodo(input);   
-    //view.displayTodos();
+    view.displayTodos();
   },
   editTodo: function(event){  
     var elementClicked = event.target;
