@@ -18,7 +18,7 @@ html {
 	padding-left: 5%;
 	padding-right: 5%;
 	background: lightgray;
-	border-radius: 10%;
+	border-radius: 25px;
 	-webkit-box-shadow: 15px 31px 67px -9px rgba(0,0,0,0.37);
 	-moz-box-shadow: 15px 31px 67px -9px rgba(0,0,0,0.37);
 	box-shadow: 15px 31px 67px -9px rgba(0,0,0,0.37);
