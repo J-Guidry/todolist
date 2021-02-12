@@ -1,78 +1,77 @@
 html {
-	box-sizing: border-box;
-	background: #EDF7FA;
-	font-size: 20px;
+  box-sizing: border-box;
+  background: #edf7fa;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-
-.container{
-	max-width: 90%;
-	line-height: 1.8;
-	width: 30rem;
-	height: 30rem;
-	margin: 70px auto;
+.container {
+  max-width: 90%;
+  line-height: 1.8;
+  width: 30rem;
+  height: 30rem;
+  margin: 70px auto;
 }
 
-.box{
-	padding-bottom: 3%;
-	padding-left: 5%;
-	padding-right: 5%;
-	background: lightgray;
-	border-radius: 25px;
-	-webkit-box-shadow: 15px 31px 67px -9px rgba(0,0,0,0.37);
-	-moz-box-shadow: 15px 31px 67px -9px rgba(0,0,0,0.37);
-	box-shadow: 15px 31px 67px -9px rgba(0,0,0,0.37);
-	width: 60%;
+.box {
+  padding-bottom: 3%;
+  padding-left: 5%;
+  padding-right: 5%;
+  background: lightgray;
+  border-radius: 25px;
+  -webkit-box-shadow: 15px 31px 67px -9px rgba(0, 0, 0, 0.37);
+  -moz-box-shadow: 15px 31px 67px -9px rgba(0, 0, 0, 0.37);
+  box-shadow: 15px 31px 67px -9px rgba(0, 0, 0, 0.37);
+  width: 60%;
 }
 
-h2{
-	position: relative;
-	top: 18px;
+h2 {
+  position: relative;
+  top: 18px;
 }
 
-li{
-	list-style: none;
+li {
+  list-style: none;
 }
 
-
-button{
-	background-color: #52A8FF; 
-    border: none;
-    color: white;
-    padding: 5px 10px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    border-radius: 12px;
-	margin-right: 10px;
+button {
+  background-color: #52a8ff;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 12px;
+  margin-right: 10px;
 }
 
-input{
-	width: 170px;
-	height: 20px;
-	border-radius: 12px;
-	background: #EDF7FA;
-	margin-right: 5px;
+input {
+  width: 170px;
+  height: 20px;
+  border-radius: 12px;
+  background: #edf7fa;
+  margin-right: 5px;
 }
 
 .fa-times {
-	float: right;
-	color: darkred;
-	margin-left: 10%;
-	cursor: pointer;
+  float: right;
+  color: darkred;
+  margin-left: 10%;
+  cursor: pointer;
   margin-top: 10px;
 }
 
 .fa-check-circle-o {
-	color: #52A8FF;
-	margin-right: 10px;
+  color: #52a8ff;
+  margin-right: 10px;
 }
 
-.fa-circle-o{
-	margin-right: 10px;
+.fa-circle-o {
+  margin-right: 10px;
 }
 
-.completed{
-	color: gray;
-	text-decoration: line-through;
+.completed {
+  color: gray;
+  text-decoration: line-through;
 }
